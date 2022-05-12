@@ -1,3 +1,17 @@
+# Steps I took to set up this project
+
+Command for terminal to set up React project: <b>npx create-react-app NAMEHERE (youtube-history was my personal project name)</b>
+
+Command for terminal to install all packages for this project <b>npm i antd moment node-sass sass-loader react-dom react-router-dom</b>
+
+Command to start after all packages are installed is <b>npm start</b>
+
+## Explanations for libraries used
+- AntD for the Material UI and components such as Cards, Buttons, Input
+- Moment for compare time/date values, and convert time/date values
+- Node SASS for SASS Library, superset of CSS, SASS Loader for it to load it
+- React Router DOM, React Dom to serve pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
