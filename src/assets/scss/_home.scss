@@ -1,0 +1,52 @@
+.home {
+    padding: 40px;
+    padding-top: 20px;
+    .content {
+        .displaydropdown {
+            display: block;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .mostplayed {
+            margin: 0 auto;
+            max-width: 720px;
+            .inner {
+                margin-bottom: 20px;
+                .ant-card-head-title{
+                    font-weight: bold;
+                }
+            }
+            .displaynumber{
+                display: flex;
+                .text{
+                    width: 50%;
+                }
+                .input{
+                    width: 50%;
+                }
+                margin-bottom: 12px;
+            }
+        }
+        .mostrecent {
+            margin: 0 auto;
+            max-width: 720px;
+            .inner {
+                margin-bottom: 20px;
+                .ant-card-head-title{
+                    font-weight: bold;
+                }
+            }
+            .displaynumber{
+                display: flex;
+                .text{
+                    width: 50%;
+                }
+                .input{
+                    width: 50%;
+                }
+                margin-bottom: 12px;
+            }
+        }
+    }
+}
