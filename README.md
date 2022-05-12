@@ -12,6 +12,14 @@ Command to start after all packages are installed is <b>npm start</b>
 - Node SASS for SASS Library, superset of CSS, SASS Loader for it to load it
 - React Router DOM, React Dom to serve pages
 
+## Screenshots
+
+### Most Played Songs
+<img src="/Screenshots/MostPlayed.png" width="100%">
+
+### Most Recent
+<img src="/Screenshots/MostRecent.png" width="100%">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
